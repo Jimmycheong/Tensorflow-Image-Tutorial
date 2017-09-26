@@ -1,6 +1,8 @@
 # Tensorflow-Image-Tutorial
 How to use Tensorflow for image manipulation
 
+{::nomarkdown}
+
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
@@ -14336,3 +14338,4 @@ AAAAAElFTkSuQmCC
 
 
 </html>
+{:/}
